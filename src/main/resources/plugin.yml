@@ -1,0 +1,5 @@
+name: OfflineTransfer
+version: 1.0
+main: me.alexiriving992.offtransfer.main.Main
+api-version: 1.16
+softdepend: [PlayerVaults]
